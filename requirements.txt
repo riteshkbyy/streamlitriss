@@ -4,7 +4,6 @@ altair
 plotly
 Document
 numpy
-stringIO
 Document
 PyPDF2
 zipfile
