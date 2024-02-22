@@ -2,7 +2,7 @@ streamlit
 pandas
 altair
 plotly
-docx
+python-docx
 numpy
 Document
 PyPDF2
