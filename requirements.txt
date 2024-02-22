@@ -6,4 +6,3 @@ Document
 numpy
 Document
 PyPDF2
-zipfile
