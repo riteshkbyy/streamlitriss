@@ -1,4 +1,4 @@
-# 🏂 US Population Dashboard
+# 🏂 RISS
 
 A dashboard web app template built in Python using Streamlit.
 
