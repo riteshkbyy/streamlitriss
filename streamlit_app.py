@@ -9,9 +9,9 @@ from docx import Document
 import PyPDF2
 import zipfile
 # import win32com.client
-import pythoncom
+# import pythoncom
 
-pythoncom.CoInitialize()
+# pythoncom.CoInitialize()
 #######################
 # Page configuration
 st.set_page_config(
