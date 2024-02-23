@@ -65,11 +65,11 @@ def parsedoc(file):
             destination_file.write(chunk)
     destination_file.close()
 
-    word = win32com.client.Dispatch("Word.Application")
-    word.visible = False
-    wb = word.Documents.Open('data/'+file.name)
-    doc = word.ActiveDocument
-    st.write(doc.Range().Text)
+    # word = win32com.client.Dispatch("Word.Application")
+    # word.visible = False
+    # wb = word.Documents.Open('data/'+file.name)
+    # doc = word.ActiveDocument
+    # st.write(doc.Range().Text)
 
 #######################
 # Dashboard Main Panel
