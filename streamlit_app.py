@@ -8,7 +8,7 @@ from io import StringIO
 from docx import Document
 import PyPDF2
 import zipfile
-import win32com.client
+# import win32com.client
 import pythoncom
 
 pythoncom.CoInitialize()
