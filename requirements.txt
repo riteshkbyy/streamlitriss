@@ -6,4 +6,4 @@ python-docx
 numpy
 Document
 PyPDF2
-pywin32
+pypiwin32
